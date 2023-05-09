@@ -18,3 +18,4 @@ with open(os.path.join(RoutePath), encoding='utf-8') as f:
     for row in reader:
         print(row)
 #  → if班表的起降机场=航路起降机场，则填充 → else 留空
+# def write_csv(s):
