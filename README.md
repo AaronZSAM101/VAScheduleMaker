@@ -11,3 +11,5 @@
 | ZSAM | ZGGG | NUSPA W597 IKATA A470 SWA X63 SHL |
 
 3.检查无误后，运行脚本
+## Feature
+添加过滤NAIP航路功能
