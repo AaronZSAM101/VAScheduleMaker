@@ -8,4 +8,5 @@
 | Dep | Arr | Route |
 | --- | --- | --- |
 | ZSAM | ZGGG | NUSPA W597 IKATA A470 SWA X63 SHL |
+
 3.检查无误后，运行脚本
